@@ -1,5 +1,5 @@
 # Log_Anomaly_detection
-Perform log(application log) anomaly detection based on the implementation of DeepCASE model.
+Aim to perform log(application log) anomaly detection based on the implementation/application of DeepCASE model.
 
 ## Structure
 
